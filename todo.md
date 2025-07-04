@@ -1,0 +1,55 @@
+﻿# Supplement Formulation Todo List
+
+- [ ] **Step 1: Confirm and Clarify User Requirements**
+    - [ ] Review all provided documents ("Formulation Brief Form", "V2 Manus - Formulation Prompt Engineering .txt", "consolidated_formulation.md", "Forza-Codes.csv").
+    - [ ] Identify any ambiguities or missing information critical for formulation.
+    - [ ] Formulate clarifying questions for the user.
+    - [ ] Send questions to the user and await their response.
+- [ ] **Step 2: Review Formulation Brief and Extract Key Product Details**
+    - [ ] Thoroughly read the Formulation Brief Form.
+    - [ ] Extract product name, target audience, desired benefits, key ingredients (if any mentioned), dietary restrictions, and countries of sale.
+    - [ ] Note the packaging type and cost per unit.
+- [ ] **Step 3: Review V2 Prompt Engineering Rules and Note Critical Requirements**
+    - [ ] Carefully study "V2 Manus - Formulation Prompt Engineering .txt".
+    - [ ] List out rules A-G and ensure full understanding.
+    - [ ] Pay special attention to the 3 structured sections of rule F and their order.
+- [ ] **Step 4: Review consolidated_formulation.md for Formatting and Layout**
+    - [ ] Analyze the structure, headings, tables, and overall style of "consolidated_formulation.md".
+    - [ ] Note specific formatting requirements for each of the 3 sections..
+- [ ] **Step 5: Review Forza Codes and Filter Eligible Ingredients**
+    - [ ] Open and examine "Forza-Codes.csv".
+    - [ ] Understand the data available for each ingredient (e.g., name, SKU, potential claims).
+    - [ ] Prepare to use this as the sole source for ingredient selection.
+- [ ] **Step 6: Conduct Market Research on Similar Products**
+    - [ ] Identify competitor products based on the formulation brief and user clarifications.
+    - [ ] Analyze their ingredients, claims, pricing, and target markets by reviewing multiple online sources.
+    - [ ] Gather insights for positioning and differentiation.
+- [ ] **Step 7: Draft Product Introduction Section**
+    - [ ] Write an engaging introduction to the product, aligning with the brief..
+- [ ] **Step 8: Draft Market Research Section**
+    - [ ] Summarize findings from the market research.
+    - [ ] Highlight opportunities and competitive landscape..
+- [ ] **Step 9: Select Ingredients and Develop Formulation Table**
+    - [ ] If formulating a capsule, only list the dosage per capsule not per serving.
+    - [ ] when formulating a capsule, consider the capsule size, 000, 00, 0 and maximum fill weight of the capsule size chosen.  
+    - [ ] If formulating a capsule, include the HPMC capsule shell in the formulation. 
+    - [ ] Based on the brief, research, and Forza codes, select suitable ingredients.
+    - [ ] Determine dosages considering efficacy, safety, and the 	target cost per unit.
+    - [ ] Create the formulation table including ingredient name, input level, label claim, purity, and function per serving..
+- [ ] **Step 10: Finalise Document**
+    - [ ] Review the entire document against "consolidated_formulation.md" for formatting and layout.
+    - [ ] Verify adherence to all 3 sections of Rule F in the correct order.
+    - [ ] Confirm compliance with rules A-G from "V2 Manus - Formulation Prompt Engineering .txt".
+    - [ ] Ensure only Forza-Codes.csv ingredients are used.
+    - [ ] Check for British English and no "Manus" references.
+- [ ] **Final Check: Adherence to Rules A-G**
+    - [ ] Rule A adherence: Tone is expert, British English, no meta-commentary.
+    - [ ] Rule B adherence: Only Forza-Codes.csv ingredients used.
+    - [ ] Rule C adherence: 
+    - [ ] Rule D adherence: Purity % used to calculate input for label claims.
+    - [ ] Rule E adherence: British English used throughout.
+    - [ ] Rule F adherence: All 3 sections included in the specified order. All capsule rules (if applicable)
+    - [ ] Ensure no written content is listed after the formulation table. 
+ - [ ] **Step 22: Report and Send Final Document to User**
+    - [ ] Prepare the final "consolidated_formulation.md" file.
+    - [ ] Send the file to the user with a summary message.
